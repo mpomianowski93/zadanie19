@@ -1,0 +1,29 @@
+body {
+	background-color: #f5f5dd;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.pierszy {
+	background-color: rgba(0, 0, 0, 1);
+	width: 100px;
+	height: 100px;
+	margin-bottom: 10px;
+}
+.drugi {
+	background-color: rgba(0, 0, 0, 0.7);
+	width: 100px;
+	height: 100px;
+	margin-bottom: 10px;
+}
+.trzeci {
+	background-color: rgba(0, 0, 0, 0.3);
+	width: 100px;
+	height: 100px;
+	margin-bottom: 10px;
+}
+.czwarty {
+	background-color: rgba(0, 0, 0, 0.1);
+	width: 100px;
+	height: 100px;
+	margin-bottom: 10px;
+}
